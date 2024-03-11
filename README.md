@@ -1,1 +1,1 @@
-# aws - how to rotate secrets
+# AWS - how to rotate secrets
